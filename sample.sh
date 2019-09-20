@@ -1,2 +1,3 @@
 hostname
 pwd
+ls
